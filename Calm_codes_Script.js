@@ -4,9 +4,9 @@
 // @match       http://fcmenu-dub-regionalized.corp.amazon.com/*/laborTrackingKiosk*
 // @author      @aakalkri
 // @grant       GM_xmlhttpRequest
-// @grant GM_getValue
-// @grant GM_setValue
-// @version 1.2
+// @grant       GM_getValue
+// @grant       GM_setValue
+// @version     1.2
 // @updateURL    https://raw.githubusercontent.com/kreeztoph/CALM-Codes/refs/heads/main/Calm_codes_Script.js
 // @downloadURL  https://raw.githubusercontent.com/kreeztoph/CALM-Codes/refs/heads/main/Calm_codes_Script.js
 
