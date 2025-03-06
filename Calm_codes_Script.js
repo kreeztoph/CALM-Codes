@@ -7,8 +7,8 @@
 // @grant GM_getValue
 // @grant GM_setValue
 // @version 1.2
-// @updateURL    https://drive-render.corp.amazon.com/view/aakalkri@/Tamper_Monkey_Scripts/Calm_codes_Script.js
-// @downloadURL  https://drive-render.corp.amazon.com/view/aakalkri@/Tamper_Monkey_Scripts/Calm_codes_Script.js
+// @updateURL    https://raw.githubusercontent.com/kreeztoph/CALM-Codes/refs/heads/main/Calm_codes_Script.js
+// @downloadURL  https://raw.githubusercontent.com/kreeztoph/CALM-Codes/refs/heads/main/Calm_codes_Script.js
 
 // ==/UserScript==
 
